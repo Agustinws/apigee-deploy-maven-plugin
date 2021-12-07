@@ -111,7 +111,7 @@
                 <apigee.tokenurl>${tokenurl}</apigee.tokenurl> <!-- optional: oauth -->
                 <apigee.mfatoken>${mfatoken}</apigee.mfatoken> <!-- optional: mfa -->
                 <apigee.authtype>${authtype}</apigee.authtype> <!-- optional: oauth|basic(default) -->
-                <apigee.bearer>ya29.c.b0AXv0zTN-vs2n75-PUCbgbE-5Jm1_e4-0acggEBMDxF41-Wpkzj3XK8b_biSmc0-N4woRDHACtwO00AGcSZRZkBJHPgm__Q3aFlecRhEyV1ELRk4u9bVNd1dByI9uM-qBIe2SAEzcXfhB5NRBsP7NUuZQR1IuEbBzc60CQSgbBwaueivfVh_PUmFBnZE7Ogxc6m55rBlwIZbf79M_4jCdZSSI3XDEUY4mBj6dxMan</apigee.bearer> <!-- optional: Bearer token override -->
+                <apigee.bearer>Bearer ya29.c.b0AXv0zTP1d8wFXB3uwyN0TeD815i9nuDjelxST4ozwi_RpDvafofDMYxeB9Tb2lw_AluRtZ5hR4p-gXK1um1z12JYsd4nKdcg0bf1KFfnuV3HXeMUgV1lxA-M5XyJCpjkLBxXdBbdBzjEXQ6cjg8P0E66SvOq0cKLYlPR-lv42cjucv5Dhq48NVwJpwPsCSUnge9amP2hfZREv5k8dDSw2SYny5eF3epZgQPQ-Alg</apigee.bearer> <!-- optional: Bearer token override -->
                 <apigee.refresh>${refresh}</apigee.refresh> <!-- optional: Refresh token override -->
                 <apigee.clientid>${clientId}</apigee.clientid> <!-- optional: Oauth Client Id - Default is edgecli-->
                 <apigee.clientsecret>${clientSecret}</apigee.clientsecret> <!-- optional: Oauth Client Secret Default is edgeclisecret-->
